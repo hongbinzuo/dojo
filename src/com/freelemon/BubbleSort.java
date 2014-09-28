@@ -23,6 +23,8 @@ public class BubbleSort {
 
         Util.testResult(a);
 
+        System.out.print("");
+
         // this is a test of github push
         // test again
     }
