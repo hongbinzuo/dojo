@@ -11,21 +11,18 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] a = {33, 12, 1, 22, 6, 7, 5, 10, 0, 9};
 
-        for (int i = 0; i < a.length - 1; i++) {
-            for (int j = i + 1; j < a.length; j++) {
-                if (a[j] < a[i]) {
-                    int tmp = a[i];
-                    a[i] = a[j];
-                    a[j] = tmp;
+        int temp;
+        for(int i=0;i<a.length-1;i++){
+            for(int j=0;j<a.length-1-i;j++){
+                if(a[j]>a[j+1]){
+                    temp=a[j];
+                    a[j]=a[j+1];
+                    a[j+1]=temp;
                 }
             }
         }
 
         Util.testResult(a);
-
-        System.out.print("");
-
-        // this is a test of github push
-        // test again
     }
+
 }
