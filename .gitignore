@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -35,9 +36,25 @@ Icon
 .Spotlight-V100
 .Trashes
 
+# classes
+*.class
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+dojo.iml
+dojo.iml
+dojo.iml
