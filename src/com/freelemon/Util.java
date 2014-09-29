@@ -13,4 +13,10 @@ public class Util {
             System.out.println(a[i]);
         }
     }
+
+    public static void exchange(int[] a, int p, int q){
+        int t = a[p];
+        a[p] = a[q];
+        a[q] = t;
+    }
 }
