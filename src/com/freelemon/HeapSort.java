@@ -5,10 +5,12 @@ package com.freelemon;
  * User: ehonzuo
  * Date: 9/26/14
  * Time: 9:07 PM
- * To change this template use File | Settings | File Templates.
+ * This class seems not work for now. will fix it later.
  */
 
 public class HeapSort {
+
+
     private int[] a;
     private int N = 0;
 
