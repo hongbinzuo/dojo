@@ -1,7 +1,4 @@
-package com.freelemon;
-
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+package com.freelemon.algorithms;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

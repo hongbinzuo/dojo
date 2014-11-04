@@ -1,4 +1,4 @@
-package com.freelemon;
+package com.freelemon.algorithms;
 
 import org.junit.Test;
 

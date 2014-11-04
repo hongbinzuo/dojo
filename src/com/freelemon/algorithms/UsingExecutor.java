@@ -1,4 +1,4 @@
-package com.freelemon;
+package com.freelemon.algorithms;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
