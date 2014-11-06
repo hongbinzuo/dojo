@@ -1,3 +1,13 @@
+## Java技术
+
+### 并发编程
+http://tutorials.jenkov.com/java-util-concurrent/index.html
+
+## 面经
+
+### Amazon
+http://www.cnblogs.com/ider/archive/2012/09/05/interview_experience_1.html
+
 ## Practice websites
 
 ### HackerRank
@@ -8,11 +18,22 @@ The url is [https://www.hackerrank.com](https://www.hackerrank.com), it is used 
 
 The url is [http://interviewzen.com](http://interviewzen.com), it's used by many companies.
 
+### Collabedit
+
+http://collabedit.com/
+
+### LeetCode
+
+https://oj.leetcode.com/problems/
+
 ## Courses
 
 ### MIT open course on 163
 
 http://v.163.com/special/opencourse/algorithms.html
+
+### Another MIT open course
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
 
 ## Blogs
 
@@ -24,6 +45,9 @@ http://blog.csdn.net/liangbopirates/article/details/9753599
 ### LeetCode
 
 http://blog.csdn.net/u011095253/article/details/9158387
+
+### Mashengjun
+http://www.mashengjun.info/?p=54
 
 #### 总结和感受
 http://cuijing.org/tag/leetcode-2
@@ -40,8 +64,6 @@ http://blog.unieagle.net/tag/leetcode/
 http://blog.csdn.net/suool/article/details/38343457
 http://www.acmerblog.com/median-of-two-sorted-arrays-5967.html
 https://github.com/tanglu/Leetcode
-
-//
 
 #### References
 九度 OJ
