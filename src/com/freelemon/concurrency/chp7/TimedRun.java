@@ -10,6 +10,8 @@ import java.util.concurrent.*;
  * To change this template use File | Settings | File Templates.
  */
 public class TimedRun {
+    // this example is not complete
+    // refer to my blog
     public static void timedRun(Runnable r, long timeout, TimeUnit unit)
         throws InterruptedException{
 
@@ -21,7 +23,7 @@ public class TimedRun {
         } catch (ExecutionException e) {
             //
         } catch (TimeoutException e) {
-            throw e;
+            //throw e;
         }  finally {
             task.cancel(true);
         }
