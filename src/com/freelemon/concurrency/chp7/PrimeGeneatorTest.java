@@ -19,6 +19,7 @@ public class PrimeGeneatorTest {
             Thread.sleep(1000);
         }finally {
             generator.cancel();
+            //
         }
 
         return generator.get();
