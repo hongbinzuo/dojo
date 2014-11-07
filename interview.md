@@ -2,6 +2,8 @@
 
 ### 并发编程
 http://tutorials.jenkov.com/java-util-concurrent/index.html
+http://java.dzone.com/articles/javautilconcurrentfuture
+http://blog.csdn.net/column/details/javaconcurrent.html
 
 ## 面经
 
