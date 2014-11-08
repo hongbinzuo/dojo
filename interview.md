@@ -1,58 +1,66 @@
-## Java技术
+# Java技术
 
-### 并发编程
+## 并发编程
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 http://java.dzone.com/articles/javautilconcurrentfuture
 http://blog.csdn.net/column/details/javaconcurrent.html
 http://www.burnison.ca/articles/the-concurrency-of-concurrenthashmap
 
-## 面经
+### ConcurrentHashMap
+http://blog.csdn.net/mazhimazh/article/details/19232359
+http://blog.csdn.net/zhangtengyuan23/article/details/22280563
+http://blog.csdn.net/hongchangfirst/article/details/39667989
+http://blog.csdn.net/u011494050/article/details/37928433
+http://blog.csdn.net/nju08cs/article/details/38458133
+http://blog.csdn.net/liangshuais/article/details/17353021
+
+# 面经
 
 ### Amazon
 http://www.cnblogs.com/ider/archive/2012/09/05/interview_experience_1.html
 
-## Practice websites
+# Practice websites
 
-### HackerRank
+## HackerRank
 
 The url is [https://www.hackerrank.com](https://www.hackerrank.com), it is used by Amazon.
 
-### InterviewZen
+## InterviewZen
 
 The url is [http://interviewzen.com](http://interviewzen.com), it's used by many companies.
 
-### Collabedit
+## Collabedit
 
 http://collabedit.com/
 
-### LeetCode
+## LeetCode
 
 https://oj.leetcode.com/problems/
 
-## Courses
+# Courses
 
-### MIT open course on 163
+## MIT open course on 163
 
 http://v.163.com/special/opencourse/algorithms.html
 
-### Another MIT open course
+## Another MIT open course
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
 
-## Blogs
+# Blogs
 
-### Hashing
+## Hashing
 
 哈希表详解
 http://blog.csdn.net/liangbopirates/article/details/9753599
 
-### LeetCode
+## LeetCode
 
 http://blog.csdn.net/u011095253/article/details/9158387
 
-### Mashengjun
+## Mashengjun
 http://www.mashengjun.info/?p=54
 
-#### 总结和感受
+### 总结和感受
 http://cuijing.org/tag/leetcode-2
 http://www.douban.com/group/topic/52118283/
 http://ladder.azurewebsites.net/forum.php?mod=viewthread&tid=1611
@@ -68,7 +76,7 @@ http://blog.csdn.net/suool/article/details/38343457
 http://www.acmerblog.com/median-of-two-sorted-arrays-5967.html
 https://github.com/tanglu/Leetcode
 
-#### References
+### References
 九度 OJ
 http://ac.jobdu.com/qanda.php
 
