@@ -26,7 +26,7 @@ public class PrimeProducer extends Thread {
                 queue.put( p =  p.nextProbablePrime());
             } catch (InterruptedException e) {
                 System.out.println("I am gonna quit");
-                e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                //e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
             }
         }
     }
