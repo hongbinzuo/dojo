@@ -4,6 +4,7 @@
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 http://java.dzone.com/articles/javautilconcurrentfuture
 http://blog.csdn.net/column/details/javaconcurrent.html
+http://www.burnison.ca/articles/the-concurrency-of-concurrenthashmap
 
 ## 面经
 
