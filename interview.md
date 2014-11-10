@@ -1,3 +1,14 @@
+# 架构
+
+## 视频
+
+淘宝 曾宪杰 双11案例 偏重体系讲解 和当天运维 中间件 宏观 讲的不错
+http://www.infoq.com/cn/presentations/taobao-double-tenth-case-sharing
+
+京东应用架构设计与治理：SOA架构原则不错 PPT写的漂亮 业务架构设计的干货不少 实现细节不多 口头禅多 要忍住
+http://www.infoq.com/cn/presentations/Jingdong-application-architecture-design-and-management
+
+
 # Java技术
 
 ## 并发编程
