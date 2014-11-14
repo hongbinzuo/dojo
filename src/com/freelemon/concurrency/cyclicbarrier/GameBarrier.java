@@ -17,6 +17,7 @@ public class GameBarrier {
 
             @Override
             public void run() {
+
                 System.out.println("All players enter into second guan.");
             }
         });
