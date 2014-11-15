@@ -17,6 +17,9 @@ http://java.dzone.com/articles/javautilconcurrentfuture
 http://blog.csdn.net/column/details/javaconcurrent.html
 http://www.burnison.ca/articles/the-concurrency-of-concurrenthashmap
 
+### 并发方面不错的中文总结
+http://ibruce.info/2013/12/07/java-interview-questions-concurrency/
+
 ### ConcurrentHashMap
 http://blog.csdn.net/mazhimazh/article/details/19232359
 http://blog.csdn.net/zhangtengyuan23/article/details/22280563
