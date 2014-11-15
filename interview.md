@@ -28,6 +28,16 @@ http://blog.csdn.net/u011494050/article/details/37928433
 http://blog.csdn.net/nju08cs/article/details/38458133
 http://blog.csdn.net/liangshuais/article/details/17353021
 
+### ReentranceLock例子
+ -[X] http://robaustin.wikidot.com/reentrantlock
+
+### Lock与同步块的区别
+ -[ ] http://blog.csdn.net/natian306/article/details/18504111
+ -[ ] http://ifeve.com/?x=0&y=0&s=lock
+
+### Deadlock
+ -[ ] http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
+
 # 面经
 
 ### Amazon
