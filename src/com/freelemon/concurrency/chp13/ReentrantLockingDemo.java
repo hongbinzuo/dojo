@@ -16,6 +16,7 @@ public class ReentrantLockingDemo {
 
     public static void main(final String... args){
         new ReentrantLockingDemo().go();
+
     }
 
     private void go(){
@@ -45,6 +46,8 @@ public class ReentrantLockingDemo {
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
+
+
 
                 } while(true);
             }

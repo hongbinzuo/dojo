@@ -3,7 +3,7 @@ package com.freelemon.algorithms;
 import org.junit.Test;
 
 /**
- * Created with IntelliJ IDEA.
+ * Created with IntelliJ I                                                                                                                                                                                                                                                                                  DEA.
  * User: ehonzuo
  * Date: 10/4/14
  * Time: 1:33 PM
