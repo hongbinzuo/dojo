@@ -46,8 +46,6 @@ public class ReentrantLockingDemo {
                         e.printStackTrace();
                     }
 
-
-
                 } while(true);
             }
         };
