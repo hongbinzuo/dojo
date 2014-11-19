@@ -11,6 +11,11 @@ http://www.infoq.com/cn/presentations/Jingdong-application-architecture-design-a
 
 # Java技术
 
+
+## Java加强
+
+- [ ] http://java.dzone.com/articles/cglib-missing-manual?page=0,0
+
 ## 并发编程
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 http://java.dzone.com/articles/javautilconcurrentfuture
