@@ -14,6 +14,8 @@ http://www.infoq.com/cn/presentations/Jingdong-application-architecture-design-a
 
 ## Java加强
 
+### cglib动态代理技术
+
 - [ ] http://java.dzone.com/articles/cglib-missing-manual?page=0,0
 
 ## 并发编程
