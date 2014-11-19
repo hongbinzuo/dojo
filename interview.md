@@ -45,8 +45,13 @@ http://blog.csdn.net/liangshuais/article/details/17353021
 ### Deadlock
 - [ ] http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
 
+## 数据库
+### MySQL
+ - [X] MySQL索引背后的数据结构及算法原理 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
+ - [ ] 美团技术团队博客 http://tech.meituan.com/
+ - [ ] MySQL opt tips http://coolshell.cn/articles/1846.html 
 # 面经
-
+    
 ### Amazon
 http://www.cnblogs.com/ider/archive/2012/09/05/interview_experience_1.html
 
