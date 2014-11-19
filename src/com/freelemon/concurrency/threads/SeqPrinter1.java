@@ -1,5 +1,7 @@
 package com.freelemon.concurrency.threads;
 
+import java.io.Serializable;
+
 public class SeqPrinter1 {
     private Object obj = new Object();
     private boolean isThread1 = true;
@@ -7,6 +9,7 @@ public class SeqPrinter1 {
     public static void main(String[] args){
         SeqPrinter1 printer1 = new SeqPrinter1();
         printer1.printSequence();
+        Serializable s= null;
     }
 
     public void printSequence() {
