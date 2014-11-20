@@ -1,3 +1,13 @@
+# Opportunities
+ - 当当技术经理 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292203
+ - 先锋支付 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292167
+ - Zuaro http://www.newsmth.net/nForum/#!article/Career_Upgrade/292149
+ - 技术副总 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292117
+ - 神马搜索 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292075
+ - 神马搜索 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292061
+ - 金雅托 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292056
+ 
+
 # 架构
 
 ## 视频
@@ -49,7 +59,8 @@ http://blog.csdn.net/liangshuais/article/details/17353021
 ### MySQL
  - [X] MySQL索引背后的数据结构及算法原理 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
  - [ ] 美团技术团队博客 http://tech.meituan.com/
- - [ ] MySQL opt tips http://coolshell.cn/articles/1846.html 
+ - [ ] MySQL opt tips http://coolshell.cn/articles/1846.html
+ 
 # 面经
     
 ### Amazon
