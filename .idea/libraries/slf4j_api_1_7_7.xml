@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ehcache-2.9.0/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ehcache-2.9.0/lib/slf4j-jdk14-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
