@@ -6,9 +6,22 @@
  - 神马搜索 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292075
  - 神马搜索 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292061
  - 金雅托 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292056
- 
 
 # 架构
+
+## 缓存
+ - http://www.infoq.com/news/2011/09/java-memcached-rise
+ - Java环境下Memcached应用详解 http://developer.51cto.com/art/200909/152325.htm
+ - 分布式缓存系统Memcached学习心得 http://www.iteye.com/topic/208981
+ - Java memcached client http://code.google.com/p/spymemcached/
+ - Ehcache整合spring配置 http://blog.csdn.net/clj198606061111/article/details/41121437
+ - 常用的缓存产品比较 http://www.cnblogs.com/radio/p/3208830.html
+ - Java/Spring: Data caching – Intercept method calls and put their returns in server-side cache with AOP/MBEAN/JCONSOLE http://www.javablog.fr/javaspring-data-caching-intercept-method-calls-and-put-their-returns-in-server-side-cache-with-aopmbeanjconsole.html
+ - ehcache memcache redis 三大缓存性能对比 http://blog.sina.com.cn/s/blog_5c5d5cdf0101eelf.html
+ - memcache vs. redis http://stackoverflow.com/questions/10558465/memcache-vs-redis
+ - memcache. redis or mongodb http://www.zhihu.com/question/19645807
+ - http://db-engines.com/en/system/Memcached%3BMongoDB%3BRedis
+
 
 ## 视频
 
@@ -18,9 +31,7 @@ http://www.infoq.com/cn/presentations/taobao-double-tenth-case-sharing
 京东应用架构设计与治理：SOA架构原则不错 PPT写的漂亮 业务架构设计的干货不少 实现细节不多 口头禅多 要忍住
 http://www.infoq.com/cn/presentations/Jingdong-application-architecture-design-and-management
 
-
 # Java技术
-
 
 ## Java加强
 
