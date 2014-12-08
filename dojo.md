@@ -7,6 +7,11 @@
  - 神马搜索 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292061
  - 金雅托 http://www.newsmth.net/nForum/#!article/Career_Upgrade/292056
 
+# Linux
+
+ - i3 http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html
+
+
 # 架构
 
 ## 缓存
